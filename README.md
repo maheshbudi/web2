@@ -7,3 +7,6 @@ Contributors Guide
 ====================
 
 Just fork the repo and do a pull request
+
+
+*** End of README ****
